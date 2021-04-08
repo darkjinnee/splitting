@@ -1,0 +1,20 @@
+{
+  "name": "splitting",
+  "version": "1.0.0",
+  "description": "Utility to split lines from a file",
+  "main": "index.js",
+  "scripts": {
+    "start": "echo \"Error: no test specified\" && exit 1",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darkjinnee/splitting.git"
+  },
+  "author": "Dark Jinnee",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/darkjinnee/splitting/issues"
+  },
+  "homepage": "https://github.com/darkjinnee/splitting#readme"
+}
